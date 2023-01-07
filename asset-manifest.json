@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textpranay/static/css/main.e6c13ad2.css",
+    "main.js": "/textpranay/static/js/main.90fc8665.js",
+    "static/js/787.86899e5f.chunk.js": "/textpranay/static/js/787.86899e5f.chunk.js",
+    "index.html": "/textpranay/index.html",
+    "main.e6c13ad2.css.map": "/textpranay/static/css/main.e6c13ad2.css.map",
+    "main.90fc8665.js.map": "/textpranay/static/js/main.90fc8665.js.map",
+    "787.86899e5f.chunk.js.map": "/textpranay/static/js/787.86899e5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.90fc8665.js"
+  ]
+}
